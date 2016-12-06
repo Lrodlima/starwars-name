@@ -1,0 +1,27 @@
+{
+  "name": "starwars-name",
+  "version": "1.0.0",
+  "description": "Get some random starWars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lrodlima/starwars-name.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Leonardo Rodrigues Lima de Souza <rodrigues@rarolabs.com.br> (http://www.rarolabs.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lrodlima/starwars-name/issues"
+  },
+  "homepage": "https://github.com/Lrodlima/starwars-name#readme",
+  "dependencies": {
+    "random-uniq-array": "1.0.1"
+  }
+}
